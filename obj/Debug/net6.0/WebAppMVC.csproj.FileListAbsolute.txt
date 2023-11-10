@@ -1,0 +1,372 @@
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\appsettings.json
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\WebAppMVC.staticwebassets.runtime.json
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\WebAppMVC.exe
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\WebAppMVC.deps.json
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\WebAppMVC.runtimeconfig.json
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\WebAppMVC.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\WebAppMVC.pdb
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\WebAppMVC.csproj.AssemblyReference.cache
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\WebAppMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\WebAppMVC.AssemblyInfoInputs.cache
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\WebAppMVC.AssemblyInfo.cs
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\WebAppMVC.csproj.CoreCompileInputs.cache
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\WebAppMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\WebAppMVC.RazorAssemblyInfo.cache
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\WebAppMVC.RazorAssemblyInfo.cs
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\staticwebassets\msbuild.WebAppMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAppMVC.props
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAppMVC.props
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAppMVC.props
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\scopedcss\bundle\WebAppMVC.styles.css
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\scopedcss\projectbundle\WebAppMVC.bundle.scp.css
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\WebAppMVC.csproj.CopyComplete
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\WebAppMVC.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\refint\WebAppMVC.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\WebAppMVC.pdb
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\WebAppMVC.genruntimeconfig.cache
+C:\Users\Syoji Ram\source\repos\WebAppMvc\obj\Debug\net6.0\ref\WebAppMVC.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Syoji Ram\source\repos\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\appsettings.Development.json
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\appsettings.json
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\WebAppMVC.staticwebassets.runtime.json
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\WebAppMVC.exe
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\WebAppMVC.deps.json
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\WebAppMVC.runtimeconfig.json
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\WebAppMVC.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\WebAppMVC.pdb
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Azure.Core.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Azure.Identity.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\System.Memory.Data.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebAppMvc\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\WebAppMVC.csproj.AssemblyReference.cache
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\WebAppMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\WebAppMVC.AssemblyInfoInputs.cache
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\WebAppMVC.AssemblyInfo.cs
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\WebAppMVC.csproj.CoreCompileInputs.cache
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\WebAppMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\WebAppMVC.RazorAssemblyInfo.cache
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\WebAppMVC.RazorAssemblyInfo.cs
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\staticwebassets\msbuild.WebAppMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAppMVC.props
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAppMVC.props
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAppMVC.props
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\staticwebassets.pack.json
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\staticwebassets.build.json
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\staticwebassets.development.json
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\scopedcss\bundle\WebAppMVC.styles.css
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\scopedcss\projectbundle\WebAppMVC.bundle.scp.css
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\WebAppMVC.csproj.CopyComplete
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\WebAppMVC.dll
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\refint\WebAppMVC.dll
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\WebAppMVC.pdb
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\WebAppMVC.genruntimeconfig.cache
+D:\WebAppMvc\WebAppMvc\obj\Debug\net6.0\ref\WebAppMVC.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\appsettings.json
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\WebAppMVC.staticwebassets.runtime.json
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\WebAppMVC.exe
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\WebAppMVC.deps.json
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\WebAppMVC.runtimeconfig.json
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\WebAppMVC.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\WebAppMVC.pdb
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.csproj.AssemblyReference.cache
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.AssemblyInfoInputs.cache
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.AssemblyInfo.cs
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.csproj.CoreCompileInputs.cache
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.RazorAssemblyInfo.cache
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.RazorAssemblyInfo.cs
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\staticwebassets\msbuild.WebAppMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAppMVC.props
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAppMVC.props
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAppMVC.props
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\scopedcss\bundle\WebAppMVC.styles.css
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\scopedcss\projectbundle\WebAppMVC.bundle.scp.css
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.csproj.CopyComplete
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\refint\WebAppMVC.dll
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.pdb
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.genruntimeconfig.cache
+C:\Users\Syoji Ram\Desktop\WebAppMvc\obj\Debug\net6.0\ref\WebAppMVC.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\appsettings.json
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\WebAppMVC.staticwebassets.runtime.json
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\WebAppMVC.exe
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\WebAppMVC.deps.json
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\WebAppMVC.runtimeconfig.json
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\WebAppMVC.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\WebAppMVC.pdb
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.csproj.AssemblyReference.cache
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.AssemblyInfoInputs.cache
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.AssemblyInfo.cs
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.csproj.CoreCompileInputs.cache
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.RazorAssemblyInfo.cache
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.RazorAssemblyInfo.cs
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\staticwebassets\msbuild.WebAppMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAppMVC.props
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAppMVC.props
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAppMVC.props
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\scopedcss\bundle\WebAppMVC.styles.css
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\scopedcss\projectbundle\WebAppMVC.bundle.scp.css
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.csproj.CopyComplete
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\refint\WebAppMVC.dll
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.pdb
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\WebAppMVC.genruntimeconfig.cache
+C:\Users\Syoji Ram\OneDrive\Desktop\WebAppMvc\obj\Debug\net6.0\ref\WebAppMVC.dll

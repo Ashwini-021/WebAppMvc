@@ -1,0 +1,53 @@
+﻿@using WebAppMVC.Models;
+@model IEnumerable<MyDbModel>;
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width"/>	
+		<title>Index</title>
+    <style>
+        table, th, td {
+            border: 2px solid Black;
+            text-align:center;
+            background-color:aqua;
+        }
+
+        th, td {
+            min-width: 150px;
+        }
+    </style>
+	</head>
+	<body>
+    <table>
+        <thead>
+            <tr>
+                <th> Id </th>
+                <th> Firstname </th>
+                <th> Midname </th>
+                <th> Lastname </th>
+                <th> Mobile </th>
+                <th> Email </th>
+                <th> Pancard </th>
+                <th> Pincode</th>
+                <th> Amount </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var dt in Model)
+            {
+                <tr>
+                    <td>@dt.Id</td>
+                    <td>@dt.Firstname</td>
+                    <td>@dt.Middlename</td>
+                    <td>@dt.Lastname</td>
+                    <td>@dt.Mobile</td>
+                    <td>@dt.Email</td>
+                    <td>@dt.Pancard</td>
+                    <td>@dt.Pincode</td>
+                    <td>@dt.Amount</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+	</body>
+</html>

@@ -1,0 +1,235 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Gold Loan Register Form</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    form {
+      max-width: 700px;
+      margin: 0 auto;
+    }
+
+    label {
+      margin-top: 10px;
+      display: block;
+    }
+
+    input {
+      width: 100%;
+      padding: 5px;
+      margin-top: 5px;
+    }
+
+    .btn {
+        display:inline-block;
+      padding: 10px 91px;
+      background-color: #4CAF50;
+      margin: 10px auto;
+      color: #fff;
+      border: none;
+      margin-left:auto;
+      margin-right: auto;
+      cursor: pointer;
+    }
+
+    .error-message {
+      color: red;
+    }
+    .success-message{
+            color: green;
+            font-weight:bold;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Gold Loan Register Form</h1>
+    @if (TempData["Message"] != null)
+    {
+        <span class="success-message">@TempData["Message"]</span>
+    }    
+    <form class="AddNew" method="post" asp-controller="Home" asp-action="AddNewRecord">
+    <label for="salutation">Salutation *</label>
+    <select id="Salutation" name="Salutation" required>
+      <option value="">-- Select Salutation --</option>
+      <option value="Mr.">Mr.</option>
+      <option value="Mrs.">Mrs.</option>
+      <option value="Ms.">Ms.</option>
+    </select>
+
+    <label for="firstName">First Name *</label>
+        <input type="text" id="Fname" name="FirstName" maxlength="15" pattern="[A-Z]+" placeholder="Input must be in Capital." required>
+
+    <label for="middleName">Middle Name</label>
+        <input type="text" id="Mname" name="MiddleName" maxlength="15" placeholder="Input must be in Capital." pattern="[A-Z]+">
+
+    <label for="lastName">Last Name *</label>
+        <input type="text" id="Lname" name="LastName" maxlength="15" placeholder="Input must be in Capital." pattern="[A-Z]+" required>
+
+    <label for="mobile">Mobile *</label>
+        <input type="text" id="Mobile" name="Mobile" maxlength="10" minlength="10" pattern="[0-9]+" required>
+
+    <label for="email">Email *</label>
+        <input type="email" id="Email" name="Email" maxlength="30" required>
+
+    <label for="panCard">Pan Card *</label>
+        <input type="text" id="Pancard" name="PanCard" maxlength="10" minlength="10" pattern="[A-Za-z0-9]+" required>
+
+    <label for="pincode">Pin Code *</label>
+        <input type="text" id="Pincode" name="Pincode" maxlength="6" minlength="6" pattern="[0-9]+" required>
+
+    <label for="amount">Required Amount *</label>
+        <input type="text" id="Amount" name="Amount" maxlength="10" pattern="[0-9]+" required>
+
+    <button class="btn" type="reset">Reset</button>
+        <button class="btn" type="submit" onclick="confirmSubmit();">Submit</button>
+
+  </form>
+
+  <script>
+        function confirmSubmit() {
+            var result = confirm("Are you sure you want to submit the form?");
+            if (result) {
+               // var doubleConfirm = Submit("Please confirm once again. Are you sure you want to submit the form?");
+                if (result)
+                {                   
+                    document.getElementByClass("AddNew").submit();
+                    //<button class="btn" type = "submit" > Submit < /button>
+                }
+            } else {
+               
+                return false;
+            }
+        }
+       /* const updateButton = document.getElementById('updateButton');
+
+        updateButton.addEventListener('click', function ()
+        {           
+            window.location.href = "Home/UpdateRecord";
+        });
+    document.addEventListener('DOMContentLoaded', function() {
+            const form = document.getElementByClass('AddNew');
+      const salutationInput = document.getElementById('Salutation');
+      const firstNameInput = document.getElementById('Fname');
+      const middleNameInput = document.getElementById('Mname');
+      const lastNameInput = document.getElementById('Lname');
+      const mobileInput = document.getElementById('Mobile');
+      const emailInput = document.getElementById('Email');
+      const panCardInput = document.getElementById('PanCard');
+      const pincodeInput = document.getElementById('Pincode');
+      const amountInput = document.getElementById('Amount');
+
+      form.addEventListener('submit', function(event) {
+        event.preventDefault();
+        clearErrorMessages();
+
+        if (!validateForm()) {
+          return;
+        }
+        alert('Form submitted successfully!');
+        //console.log("Thanks");
+        let st= prompt("Enter Something");
+      });
+
+      function validateForm() {
+        let isValid = true;
+
+        if (salutationInput.value === '') {
+          displayErrorMessage(salutationInput, 'Please select a salutation');
+          isValid = false;
+        }
+
+        if (firstNameInput.value.trim() === '') {
+          displayErrorMessage(firstNameInput, 'Please enter a first name');
+          isValid = false;
+        }
+
+        if (lastNameInput.value.trim() === '') {
+          displayErrorMessage(lastNameInput, 'Please enter a last name');
+          isValid = false;
+        }
+
+        if (mobileInput.value.trim() === '') {
+          displayErrorMessage(mobileInput, 'Please enter a mobile number');
+          isValid = false;
+        } else if (!isValidMobileNumber(mobileInput.value)) {
+          displayErrorMessage(mobileInput, 'Please enter a valid mobile number');
+          isValid = false;
+        }
+
+        if (emailInput.value.trim() !== '' && !isValidEmail(emailInput.value)) {
+          displayErrorMessage(emailInput, 'Please enter a valid email address');
+          isValid = false;
+        }
+
+        if (panCardInput.value.trim() === '') {
+          displayErrorMessage(panCardInput, 'Please enter a PAN card number');
+          isValid = false;
+        } else if (!isValidPanCard(panCardInput.value)) {
+          displayErrorMessage(panCardInput, 'Please enter a valid PAN card number');
+          isValid = false;
+        }
+
+        if (pincodeInput.value.trim() === '') {
+          displayErrorMessage(pincodeInput, 'Please enter a pin code');
+          isValid = false;
+        }
+
+        if (amountInput.value.trim() === '') {
+          displayErrorMessage(amountInput, 'Please enter the required amount');
+          isValid = false;
+        }
+
+        return isValid;
+      }
+
+      function isValidMobileNumber(mobileNumber) {
+        const mobileNumberPattern = /^[6-9]\d{9}$/;
+        return mobileNumberPattern.test(mobileNumber);
+      }
+
+      function isValidEmail(email) {
+        // Use your own email validation logic or library here
+        // For simplicity, a basic email pattern check is implemented
+        const emailPattern = /^[^\s]+[^\s]+\.[^\s]+$/;
+        return emailPattern.test(email);
+      }
+
+      function isValidPanCard(panCard) {
+        const panCardPattern = /^[A-Z]{5}[0-9]{4}[A-Z]{1}$/;
+        return panCardPattern.test(panCard);
+      }
+
+      function displayErrorMessage(inputElement, message) {
+        const errorElement = document.createElement('span');
+        errorElement.className = 'error-message';
+        errorElement.textContent = message;
+        inputElement.parentNode.insertBefore(errorElement, inputElement.nextSibling);
+      }
+
+      function clearErrorMessages() {
+        const errorMessages = document.querySelectorAll('.error-message');
+        errorMessages.forEach(function(errorMessage) {
+          errorMessage.remove();
+        });
+      }
+    });*/
+  </script>
+</body>
+
+</html>
+
